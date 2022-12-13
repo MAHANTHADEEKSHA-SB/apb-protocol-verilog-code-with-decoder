@@ -23,3 +23,5 @@ slave: in slave the write operation will be sequential and read operation will b
 the code here is kind of not fully apb multi slave tested, i've tried for one slave and have done state machine for multiple slave but yet to write 
 random data an random address with pslverr in this code. 
 "any kind of corrections let me know"
+contact : mahanthadeekshasb@gmail.com
+
