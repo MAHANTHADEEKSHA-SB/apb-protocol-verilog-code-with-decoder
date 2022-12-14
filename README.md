@@ -1,4 +1,4 @@
-# apb_protocol_with_decoder
+# apb protocol with decoder
 apb protocol 
 It is a protocol which guides the selections and data flow from peripherals to an SoC , it works at lower frequency than AHB and it is based on AMBA,
 the frequency of working is around 100Mhz i.e 10ns period clock.
